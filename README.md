@@ -5,3 +5,4 @@
 #[Lab_05](https://github.com/2303A51680/ADM-LAB-2025/blob/main/ADM%20Lab_05.ipynb)<br>
 #[Lab_6(1)](https://github.com/2303A51680/ADM-LAB-2025/blob/main/ADM%20Lab_06.ipynb)<br>
 #[Lab_6(2)](https://github.com/2303A51680/ADM-LAB-2025/blob/main/ADM%20Lab_06(2).ipynb)<br>
+#[Lab_07](https://github.com/2303A51680/ADM-LAB-2025/blob/main/ADM_LAB_07.ipynb)<br>
