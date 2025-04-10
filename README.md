@@ -8,3 +8,4 @@
 #[Lab_07](https://github.com/2303A51680/ADM-LAB-2025/blob/main/ADM_LAB_07.ipynb)<br>
 #[Lab_08](https://github.com/2303A51680/ADM-LAB-2025/blob/main/ADM%20LAB_08.ipynb)<br>
 #[Lab_9(1)](https://github.com/2303A51680/ADM-LAB-2025/blob/main/ADM_LAB-09.ipynb)<br>
+#[Lab_9(2)](https://github.com/2303A51680/ADM-LAB-2025/blob/main/ADM_LAB-09(1).ipynb)<br>
